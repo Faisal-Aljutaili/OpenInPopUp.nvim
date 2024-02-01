@@ -1,6 +1,9 @@
 # OpenInPopUp.nvim
 
 ## usage 
+
+here is an example that opens [lazygit]([https://github.com/](https://github.com/jesseduffield/lazygit))
+
 ```
 --with lazy vim
 {
