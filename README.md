@@ -1,6 +1,6 @@
 # OpenInPopUp.nvim
 
-##usage 
+## usage 
 ```
 --with lazy vim
 {
